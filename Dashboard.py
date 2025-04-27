@@ -12,7 +12,7 @@ config = {
     'user': 'root',
     'password': '',
     'database': 'parcial2',
-    'port': '33065'
+    'port': '3306'
 }
 
 # Diccionario de colores LED
